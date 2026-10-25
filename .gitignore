@@ -1,0 +1,7 @@
+*.tmp
+*.log
+*.deflate
+*.bak
+.vs/
+bin/
+obj/
